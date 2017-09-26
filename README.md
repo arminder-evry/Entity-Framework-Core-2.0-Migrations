@@ -1,1 +1,1 @@
-# Entity-Framework-Core-Migrations
+# Entity-Framework-Core-2.0 Migrations
